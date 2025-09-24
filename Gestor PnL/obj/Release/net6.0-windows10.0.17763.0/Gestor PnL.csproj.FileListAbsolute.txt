@@ -1,0 +1,147 @@
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.exe
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.dll.config
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.deps.json
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.runtimeconfig.json
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Gestor PnL.pdb
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraCharts.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Charts.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.CodeParser.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Data.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.DataAccess.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Drawing.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Images.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Map.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Mvvm.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Office.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Printing.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraReports.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.SpellChecker.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Spreadsheet.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraTreeMap.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.TreeMap.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Utils.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Utils.v22.1.UI.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraWizard.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraCharts.v22.1.UI.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraDialogs.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Dialogs.v22.1.Core.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraGantt.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraGauges.v22.1.Presets.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraGauges.v22.1.Win.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraGrid.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraMap.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraBars.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraEditors.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraLayout.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraPdfViewer.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.Extensions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.Reporting.Extensions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraScheduler.v22.1.Reporting.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraSpellChecker.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraSpreadsheet.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraTreeMap.v22.1.UI.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\DevExpress.Xpo.v22.1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\EPPlus.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\EPPlus.Interfaces.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\EPPlus.System.Drawing.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Extensions.Primitives.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ComponentModel.Composition.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Data.Odbc.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Data.OleDb.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Data.SqlClient.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Formats.Asn1.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.IO.Ports.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.Http.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.NetTcp.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.Primitives.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.Security.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceModel.Syndication.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.ServiceProcess.ServiceController.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encoding.CodePages.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Text.Encodings.Web.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\System.Text.Json.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-arm64\native\sni.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x64\native\sni.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win-x86\native\sni.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\bin\Release\net6.0-windows10.0.17763.0\WinRT.Runtime.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.csproj.AssemblyReference.cache
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormEditArea.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormEditCostCenters.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormEditUser.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormEditUsers.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormEditVPs.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormNewCCValue.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormNewVersion.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.FormPrincipal.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormStep1VP.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormStep2EditManagers.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormStep2Management.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Forms.FormStep3CostCenter.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.Properties.Resources.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.UserControls.UserControlControlVersion.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.UserControls.UserControlEditCostCenters.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.UserControls.UserControlEditManagerAreas.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.UserControls.UserControlEditVPs.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor_PnL.UserControls.UserControlManageVersions.resources
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.csproj.GenerateResource.cache
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.AssemblyInfoInputs.cache
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.AssemblyInfo.cs
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.csproj.CoreCompileInputs.cache
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.csproj.Up2Date
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\refint\Gestor PnL.dll
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.pdb
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\Gestor PnL.genruntimeconfig.cache
+C:\Users\teixvibr\OneDrive - B. Braun\Documentos\Projetos\Gestor PnL\Gestor PnL\obj\Release\net6.0-windows10.0.17763.0\ref\Gestor PnL.dll

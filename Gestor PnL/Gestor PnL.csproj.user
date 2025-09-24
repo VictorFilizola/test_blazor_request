@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms\FormEditArea.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEditCostCenters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormEditVPs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormNewVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormStep1VP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormStep2EditManagers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormStep3CostCenter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormStep2Management.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlEditCostCenters.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlControlVersion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlEditVPs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlManageVersions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

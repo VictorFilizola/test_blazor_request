@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Gestor_PnL.Program</StartupObject>
+    <ApplicationIcon>web_layout_large_masonry_view_icon_260456.ico</ApplicationIcon>
+    <PackageIcon>imagem.png</PackageIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="web_layout_large_masonry_view_icon_260456.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Downloads\imagem.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Win.Design" Version="22.1.*-*" />
+    <PackageReference Include="EPPlus" Version="7.3.2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Forms\FormNewCCValue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\UserControlEditManagerAreas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
